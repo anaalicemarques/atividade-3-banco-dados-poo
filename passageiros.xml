@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passageiros>
+	<passageiro>
+		<nome>Ana Alice</nome>
+		<idade>35</idade>
+		<numero_ticket>12345</numero_ticket>
+		<origem>Campina Grande</origem>
+		<destino>Recife</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Leticia</nome>
+		<idade>5</idade>
+		<numero_ticket>54321</numero_ticket>
+		<origem>Belo Horizonte</origem>
+		<destino>Rio de Janeiro</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Lucas</nome>
+		<idade>3</idade>
+		<numero_ticket>98765</numero_ticket>
+		<origem>Joao Pessoa</origem>
+		<destino>Sao Paulo</destino>
+	</passageiro>
+<passageiro>
+	<nome>Thiago</nome>
+	<idade>35</idade>
+	<numero_ticket>98765</numero_ticket>
+	<origem>Campina Grande</origem>
+	<destino>Fortaleza</destino>
+</passageiro>
+<passageiro>
+	<nome>Lidia</nome>
+	<idade>72</idade>
+	<numero_ticket>98765</numero_ticket>
+	<origem>Campina Grande</origem>
+	<destino>Recife</destino>
+</passageiro>
+</passageiros>
